@@ -4,12 +4,12 @@ import bgImage from "../assets/bgImage.png";
 import { Features } from "../components/features";
 import ComparisonSection from "../components/comparisonSection";
 import TestimonialSlider from "../components/testimonials";
-import HowItWorks from "../components/howItsWork";
 import SupportedLeadCRM from "../components/Support";
 import Footer from "../components/Footer";
 import FreeTrialBanner from "../components/FloatingSection";
 import LeadCRMBanner from "../components/Banners";
 import LeadCRMSection from "../components/SalesSection";
+import HowItWorks from "../components/howItsWork";
 
 export const Home = () => {
   return (
