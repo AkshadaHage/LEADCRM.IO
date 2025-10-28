@@ -2,7 +2,7 @@
 import { MessageSquare, Users, Building2, DotIcon } from "lucide-react"
 import { LLogo, Workwith1, Workwith2, Workwith3, ZohoIcon } from "../assets/Svg"
 import line1 from "../assets/Dashedline1.png"
-import line2 from "../assets/Dashedline2.png"
+import line2 from "../assets/DashedLine2.png"
 import line3 from "../assets/DashedLine3.png"
 import MsgImg from "../assets/MessageImage.png"
 import Collab from "../assets/Collaboration.png"
