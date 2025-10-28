@@ -1,6 +1,6 @@
 
-import { Check, CheckCheck, ChevronRight, CrossIcon, Mail, MoveLeft, Phone, X, XIcon } from "lucide-react";
-import Robo from "../assets/Robo.png"
+import { Check, ChevronRight, Mail, Phone, XIcon } from "lucide-react";
+
 import { BlinkingStars, LLogo, MailIcon, SearchIcon, ZBIcon } from "../assets/Svg";
 import img2 from "../assets/CRM-Data-Enrichment-768x474.webp"
 export default function CRMEnterprize() {

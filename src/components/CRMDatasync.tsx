@@ -1,4 +1,4 @@
-import { ArrowRight, Linkedin } from "lucide-react"
+import { ArrowRight } from "lucide-react"
 import CRMData1 from "../assets/CRM-Data-Sync-1.png"
 import CRMData from "../assets/CRM-Data-Sync.png"
 

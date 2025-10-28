@@ -5,7 +5,7 @@ import step2 from "../assets/Step2.png";
 import step3 from "../assets/Step3.png";
 import step4 from "../assets/Step4.png";
 import ball from "../assets/Ball.png";
-import arrow from "../assets/Union.png"; // ⬅️ your blue curved arrow
+import arrow from "../assets/Union.png"; 
 
 export default function HowItWorks() {
   const steps = [

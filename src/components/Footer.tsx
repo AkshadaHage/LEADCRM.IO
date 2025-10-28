@@ -1,5 +1,5 @@
 import { InstagramIcon, LucideLinkedin } from "lucide-react"
-import { Facebook, Twitter, Instagram } from "lucide-react"
+import { Facebook} from "lucide-react"
 import LeadcrmLogo from "../assets/LeadcrmLogo.png"
 import { GoogleCrome2, MailWithLetter, PhoneIcon, QueIcon, TwitterIcon } from "../assets/Svg"
 
