@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
-import person1 from "../assets/person3.png"
-import person3 from "../assets/person2.png"
-import person2 from "../assets/person4.png"
+import person1 from "../assets/Person3.png"
+import person3 from "../assets/User2.png"
+import person2 from "../assets/Person4.png"
 import { Clock, CreditCard } from "../assets/Svg";
 
 const FreeTrialBanner = () => {
