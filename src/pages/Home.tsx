@@ -9,7 +9,7 @@ import Footer from "../components/Footer";
 import FreeTrialBanner from "../components/FloatingSection";
 import LeadCRMBanner from "../components/Banners";
 import LeadCRMSection from "../components/SalesSection";
-import HowItWorks from "../components/HowItsWork";
+import HowItWorks from "../components/Work";
 
 export const Home = () => {
   return (

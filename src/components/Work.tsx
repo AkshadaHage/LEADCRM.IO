@@ -42,7 +42,7 @@ export default function HowItWorks() {
   return (
     <div>
       <section className="bg-[#EAEFFA] py-16 px-4 sm:px-8 lg:px-16 font-exo relative overflow-hidden">
-        {/* Section Header */}
+      
         <div className="text-left mb-12 font-poppins max-w-[1400px] mx-auto">
           <h2 className="text-[1.5rem] sm:text-[2.4rem] font-semibold text-[#090F4E]">
             How it Works
@@ -53,9 +53,7 @@ export default function HowItWorks() {
           </p>
         </div>
 
-        {/* Steps + Arrows */}
         <div className="relative max-w-[1400px] mx-auto flex flex-col lg:flex-row items-center justify-between gap-10">
-          {/* Background Arrows (behind cards) */}
           <div className="absolute inset-0 flex items-center mt-[-300px] justify-between px-[19%] z-0 hidden lg:flex">
             <img
               src={arrow}
@@ -74,7 +72,6 @@ export default function HowItWorks() {
             />
           </div>
 
-          {/* Foreground Cards */}
           {steps.map((step, index) => (
             <div
               key={index}
@@ -100,7 +97,6 @@ export default function HowItWorks() {
           ))}
         </div>
 
-        {/* CTA Button */}
         <div className="flex justify-center mt-12">
           <button
             className="bg-[#B3FC6A] hover:bg-lime-500 text-[#000000] font-semibold py-3 px-8 rounded-[12px] text-[1.2rem] shadow-lg transition-colors"
@@ -113,7 +109,6 @@ export default function HowItWorks() {
         </div>
       </section>
 
-      {/* Decorative Ball */}
       <div className="mt-[-40px] w-full flex justify-end">
         <img src={ball} alt="ball" />
       </div>
