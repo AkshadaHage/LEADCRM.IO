@@ -10,7 +10,7 @@ const FreeTrialBanner = () => {
   useEffect(() => {
     const handleScroll = () => {
       if (window.scrollY > 400) {
-        setShowBanner(true);
+        setShowBanner(true);   
       } else {
         setShowBanner(false);
       }
